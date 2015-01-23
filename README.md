@@ -1,4 +1,5 @@
 # Bundle-Error
+
 Bundle Error on Building App
 ============================
 
@@ -11,7 +12,7 @@ File not found: /Users/Username/Library/Developer/XCODE/DerivedData/AppNameRando
 
 Solution
 ========
-Remove all entries in the following paths
+Remove all entries in the following paths and XCODE will regenerate them.
 
 Xcode Target -> App       -> Build Settings -> Linking -> Bundle Loader -> Debug and Release
 
