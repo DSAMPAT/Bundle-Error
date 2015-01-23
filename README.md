@@ -6,6 +6,7 @@ Bundle Error on Building App
 I had an error as below:-
 
 ld: file not found: /Users/Username/Library/Developer/XCODE/DerivedData/AppNameRandomCode/Build/Products/Debug-iphoneos/Appname.app/Appname
+
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 File not found: /Users/Username/Library/Developer/XCODE/DerivedData/AppNameRandomCode/Build/Products/Debug-iphoneos/Appname.app/Appname
